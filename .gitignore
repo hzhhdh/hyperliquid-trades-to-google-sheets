@@ -1,0 +1,30 @@
+# Ignore specific JSON files inside Docs folder
+Docs/SheetID.json
+Docs/config.json
+Docs/CloudKeys.json
+
+# Ignore Google Cloud service account credentials
+service_account.json
+config.json
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor folders
+.vscode/
+.idea/
+
+# Ignore python test cache
+.pytest_cache/
