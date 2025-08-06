@@ -1,0 +1,18 @@
+{
+    "secret_key": "ADD YOUR SECRET KEY HERE",
+    "account_address": "ADD YOUR ACCOUNT ADDRESS HERE",
+    "multi_sig": {
+        "authorized_users": [
+            {
+                "comment": "signer 1",
+                "secret_key": "",
+                "account_address": ""
+            },
+            {
+                "comment": "signer 2",
+                "secret_key": "",
+                "account_address": ""
+            }
+        ]
+    }
+}
